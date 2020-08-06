@@ -4,7 +4,7 @@ arXiv Dataset: https://blogs.cornell.edu/arxiv/2020/08/05/leveraging-machine-lea
 
 A project to help explore arXiv research papers and fuel new scientific discovery.
 
-I am interested to put a team together of people that are interested in exploring this dataset and report insights. These insights will be documented and reported in the form a article/paper and published.
+I am interested to put a team together of people that are interested in exploring the [arXiv dataset](https://www.kaggle.com/Cornell-University/arxiv) and report insights. These insights will be documented and reported in the form a article/paper and published.
 
 The second part of the project is to potentially build a discovery tool that supports semantic search capabilities.
 
