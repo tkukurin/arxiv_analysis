@@ -1,6 +1,8 @@
 # arXiv Dataset Analysis and Discovery Tools 
 
-A project to help explore research papers and fuel new scientific discovery.
+arXiv Dataset: https://blogs.cornell.edu/arxiv/2020/08/05/leveraging-machine-learning-to-fuel-new-discoveries-with-the-arxiv-dataset/
+
+A project to help explore arXiv research papers and fuel new scientific discovery.
 
 I am interested to put a team together of people that are interested in exploring this dataset and report insights.
 
