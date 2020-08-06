@@ -2,7 +2,7 @@
 
 arXiv Dataset: https://blogs.cornell.edu/arxiv/2020/08/05/leveraging-machine-learning-to-fuel-new-discoveries-with-the-arxiv-dataset/
 
-A project to help explore arXiv research papers and fuel new scientific discovery.
+A project to explore arXiv research papers and fuel new scientific discovery.
 
 I am interested to put a team together of people that are interested in exploring the [arXiv dataset](https://www.kaggle.com/Cornell-University/arxiv) and report insights. These insights will be documented and reported in the form an article/paper that will be published.
 
