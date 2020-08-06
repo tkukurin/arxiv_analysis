@@ -12,4 +12,4 @@ In the end, I would like if we can build applications that help with paper recom
 
 Please add your name as a contributor using the following [issue](https://github.com/dair-ai/arxiv_analysis/issues/1). For this particular project, I am looking for people that have experience working with a combinations of tools for data analysis and visualizations like Python, pandas, matplotlib, Kibana, and Elasticsearch. It is not required that you know all the tools and if you know of other tools that experience will come in handy.
 
-More details coming soon!
+More details coming soon. For now, please join us on our [Slack group](https://dairai.slack.com/join/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g#/) (channel: project_arxiv_papers) for more announcements!
