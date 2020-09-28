@@ -14,4 +14,4 @@ If you are interested to be part of this project, please add your name as a cont
 
 The different stages of the project will be announced soon. 
 
-More details coming soon. For now, please join us on our [Slack group](https://dairai.slack.com/join/shared_invite/zt-dv2dwzj7-F9HT047jIGkunNKv88lQ~g#/) (channel: project_arxiv_papers) for more announcements!
+More details coming soon. For now, please join us on our Slack group (channel: project_arxiv_papers) for more announcements! Feel free to reach out to me on [Twitter](https://twitter.com/omarsar0) for an invite to our Slack group.
