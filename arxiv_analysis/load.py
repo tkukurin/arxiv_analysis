@@ -117,11 +117,12 @@ class ArxivDataset:
 
   def __getitem__(self, i): # return raw
     _r = self.df.iloc[i].copy()
-    _r.categories = _r.categories.apply(self.cats_le.inverse_transform)
     if isinstance(_r, pd.Series): # i is single index
-      _rid = arxiv.idx_le.inverse_transform([_r.name])
+      _r.categories = self.cats_le.inverse_transform(_r.categories)
+      _rid = self.idx_le.inverse_transform([_r.name])
       _r = _r.append(pd.Series(_rid, index=['id'] * len(_rid)))
     else:
+      _r.categories = _r.categories.apply(self.cats_le.inverse_transform)
       _r.index = self.idx_le.inverse_transform(_r.index)
     return _r
 
